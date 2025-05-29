@@ -2,7 +2,7 @@
   name: M81 протибунтівний гранатомет
   parent: [ RMCBaseWeaponGrenadeLauncher ]
   id: RMCWeaponLauncherM81
-  description: Протибунтівний гранатомет М81 - це однозарядна, плечева зброя з відкидним стволом, призначена для використання поліцією з малолетальними боєприпасами.
+  description: Протибунтівний гранатомет М81 - однозарядний, плечовий гранатомет із відкидним стволом, призначений для використання поліцією з малолетальними боєприпасами.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/GrenadeLaunchers/m81.rsi
