@@ -1,8 +1,8 @@
 - type: entity
   parent: RMCBaseWeaponLMG
-  name: M60 Кулемет загального призначення
+  name: "M60 кулемет загального призначення"
   id: RMCWeaponLMGM60
-  description: 'Свиня'. Улюблена зброя героїв бойовиків. Під набій 7.62х51 мм НАТО.
+  description: "'Свиня'. Улюблена зброя героїв бойовиків. Під набій 7.62х51 мм НАТО."
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/LMGs/m60.rsi
