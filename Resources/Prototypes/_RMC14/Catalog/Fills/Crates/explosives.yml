@@ -71,7 +71,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesHighExplosiveBox
-  name: ящик з коробкою фугасних гранат М40 ФПП (25 шт.)
+  name: ящик фугасних гранат М40 ФПП (25 шт.)
   components:
   - type: StorageFill
     contents:
@@ -80,7 +80,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesBoxHEFA
-  name: ящик з коробкою осколково-фугасних гранат М40 ОФ (25 шт.)
+  name: ящик осколково-фугасних гранат М40 ОФ (25 шт.)
   components:
   - type: StorageFill
     contents:
