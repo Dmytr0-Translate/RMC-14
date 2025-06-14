@@ -1,7 +1,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesHighExplosive
-  name: ящик фугасних гранат М40 ФПП (6 шт.)
+  name: Ящик фугасних гранат М40 ФПП (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -11,7 +11,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesIncendiary
-  name: ящик запалювальних гранат М40 ВІРЗ (6 шт.)
+  name: Ящик запалювальних гранат М40 ВІРЗ (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -21,7 +21,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesFrag
-  name: ящик осколково-фугасних гранат М40 ОФ (6 шт.)
+  name: Ящик осколково-фугасних гранат М40 ОФ (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -31,7 +31,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesSmoke
-  name: ящик димових гранат М40 ВДР (6 шт.)
+  name: Ящик димових гранат М40 ВДР (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -41,7 +41,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesFragOld
-  name: ящик осколково-фугасних гранат М15 (6 шт.)
+  name: Ящик осколково-фугасних гранат М15 (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -51,7 +51,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCratePlasticExplosives
-  name: ящик пластикових бомб (3 шт.)
+  name: Ящик пластикових бомб (3 шт.)
   components:
   - type: StorageFill
     contents:
@@ -61,7 +61,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateBreachingCharges
-  name: ящик підривних зарядів (4 шт.)
+  name: Ящик підривних зарядів (4 шт.)
   components:
   - type: StorageFill
     contents:
@@ -71,7 +71,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesHighExplosiveBox
-  name: ящик фугасних гранат М40 ФПП (25 шт.)
+  name: Ящик фугасних гранат М40 ФПП (25 шт.)
   components:
   - type: StorageFill
     contents:
@@ -80,7 +80,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesBoxHEFA
-  name: ящик осколково-фугасних гранат М40 ОФ (25 шт.)
+  name: Ящик осколково-фугасних гранат М40 ОФ (25 шт.)
   components:
   - type: StorageFill
     contents:
@@ -89,7 +89,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesAirburstFragBox
-  name: ящик осколкових гранат М74 ПВГ-О 40 мм, гранатоментні (25 шт.)
+  name: Ящик осколкових гранат М74 ПВГ-О 40 мм, гранатоментні (25 шт.)
   components:
   - type: StorageFill
     contents:
@@ -98,7 +98,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateBoxAGMI
-  name: ящик запалювальних гранат М74 ПВГ-З 40 мм, гранатометні (25 шт.)
+  name: Ящик запалювальних гранат М74 ПВГ-З 40 мм, гранатометні (25 шт.)
   components:
   - type: StorageFill
     contents:
@@ -107,7 +107,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesAirburstFrag
-  name: ящик осколкових гранат М74 ПВГ-О 40 мм, гранатоментні (6 шт.)
+  name: Ящик осколкових гранат М74 ПВГ-О 40 мм, гранатоментні (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -117,7 +117,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesAirburstIncendiary
-  name: ящик запалювальних гранат М74 ПВГ-З 40 мм, гранатометні (6 шт.)
+  name: Ящик запалювальних гранат М74 ПВГ-З 40 мм, гранатометні (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -127,7 +127,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesAirburstSmoke
-  name: ящик димових гранат М74 ПВГ-Д 40 мм, гранатометні (6 шт.)
+  name: Ящик димових гранат М74 ПВГ-Д 40 мм, гранатометні (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -137,7 +137,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesAirburstHornet
-  name: ящик шершневих гранат М74 ПВГ-К 40 мм, гранатометні (6 шт.)
+  name: Ящик шершневих гранат М74 ПВГ-К 40 мм, гранатометні (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -147,7 +147,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesAirburstStarShell
-  name: ящик зіркових гранат М74 ПВГ-З 40 мм, гранатометні (6 шт.)
+  name: Ящик зіркових гранат М74 ПВГ-З 40 мм, гранатометні (6 шт.)
   components:
   - type: StorageFill
     contents:
@@ -157,7 +157,7 @@
 - type: entity
   parent: RMCCrateExplosives
   id: RMCCrateGrenadesBatonSlug
-  name: ящик сповільнювальних гранат ВІГС, гранатометні (6 шт.)
+  name: Ящик сповільнювальних гранат ВІГС, гранатометні (6 шт.)
   components:
   - type: StorageFill
     contents:

@@ -1,7 +1,7 @@
 - type: entity
   id: RMCCrateEmptySandbags
   parent: RMCCrateConstruction
-  name: ящик порожніх мішків з піском
+  name: Ящик порожніх мішків з піском
   components:
   - type: StorageFill
     contents:
@@ -10,7 +10,7 @@
 - type: entity
   id: RMCCrateSandbagsConstructionKit
   parent: RMCCrateConstruction
-  name: набір для побудови барикад з мішків з піском
+  name: Набір для побудови барикад з мішків з піском
   components:
   - type: StorageFill
     contents:
@@ -21,7 +21,7 @@
 - type: entity
   id: RMCCrateMetalSheets
   parent: RMCCrateConstruction
-  name: ящик металевих листів
+  name: Ящик металевих листів
   components:
   - type: StorageFill
     contents:
@@ -30,7 +30,7 @@
 - type: entity
   id: RMCCratePlasteelSheets
   parent: RMCCrateConstruction
-  name: ящик пласталевих листів
+  name: Ящик пласталевих листів
   components:
   - type: StorageFill
     contents:
@@ -39,7 +39,7 @@
 - type: entity
   id: RMCCrateGlassSheets
   parent: RMCCrateConstruction
-  name: ящик скла
+  name: Ящик скла
   components:
   - type: StorageFill
     contents:
@@ -48,7 +48,7 @@
 - type: entity
   id: RMCCrateWoodenPlanks
   parent: RMCCrateConstruction
-  name: ящик дерев'яних дошок
+  name: Ящик дерев'яних дошок
   components:
   - type: StorageFill
     contents:
@@ -67,7 +67,7 @@
 - type: entity
   parent: RMCCrateConstruction
   id: RMCCrateSuperconductingMagneticCoil
-  name: ящик з надпровідною магнітною котушкою
+  name: Ящик з надпровідною магнітною котушкою
   components:
   - type: StorageFill
     contents:
@@ -76,7 +76,7 @@
 - type: entity
   id: RMCCrateElectricalMaintenance
   parent: RMCCrateConstruction
-  name: ящик з електрообслуговуванням
+  name: Ящик з електрообслуговуванням
   components:
   - type: StorageFill
     contents:
@@ -92,7 +92,7 @@
 - type: entity
   id: RMCCrateMechanicalMaintenance
   parent: RMCCrateConstruction
-  name: ящик з механічним обслуговуванням
+  name: Ящик з механічним обслуговуванням
   components:
   - type: StorageFill
     contents:
@@ -121,7 +121,7 @@
 - type: entity
   id: RMCCrateReplacementLights
   parent: RMCCrateConstruction
-  name: ящик запасних ламп
+  name: Ящик запасних ламп
   components:
   - type: StorageFill
     contents:
@@ -131,7 +131,7 @@
 - type: entity
   id: RMCCratePacmanParts
   parent: RMCCrateConstruction
-  name: деталі переносного генератора 'PACMAN'
+  name: Деталі переносного генератора 'PACMAN'
   components:
   - type: StorageFill
     contents:
@@ -143,7 +143,7 @@
 - type: entity
   id: RMCCrateSuperPacmanParts
   parent: RMCCrateConstruction
-  name: деталі переносного генератора 'SUPER PACMAN'
+  name: Деталі переносного генератора 'SUPER PACMAN'
   components:
   - type: StorageFill
     contents:
@@ -155,7 +155,7 @@
 - type: entity
   id: RMCCrateFlashlights
   parent: RMCCrateConstruction
-  name: ящик ліхтариків
+  name: Ящик ліхтариків
   components:
   - type: StorageFill
     contents:
@@ -165,7 +165,7 @@
 - type: entity
   id: RMCCrateHighCapacityPowerCell
   parent: RMCCrateConstruction
-  name: ящик з прото-батарейками
+  name: Ящик з прото-батарейками
   components:
   - type: StorageFill
     contents:

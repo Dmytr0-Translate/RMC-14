@@ -1,7 +1,7 @@
 - type: entity
   id: RMCCrateClothingLargePouches
   parent: RMCCrateBase
-  name: "ящик великих підсумків (по 2 шт.: пістолетні, магазинні, універсальні)"
+  name: "Ящик великих підсумків (по 2 шт.: пістолетні, магазинні, універсальні)"
   components:
   - type: StorageFill
     contents:
@@ -15,7 +15,7 @@
 - type: entity
   id: RMCCrateClothingMedicalPouches
   parent: RMCCrateBase
-  name: "ящик медичних підсумків (1 шт. кожного: першої допомоги, автоінжекторний, для шприців, медичний, для меднабору)"
+  name: "Ящик медичних підсумків (1 шт. кожного: першої допомоги, автоінжекторний, для шприців, медичний, для меднабору)"
   components:
   - type: StorageFill
     contents:
@@ -33,7 +33,7 @@
 - type: entity
   id: RMCCrateClothingWebbing
   parent: RMCCrateBase
-  name: ящик розвантажок (4 шт.)
+  name: Ящик розвантажок (4 шт.)
   components:
   - type: StorageFill
     contents:
@@ -43,7 +43,7 @@
 - type: entity
   id: RMCCrateClothingWebbingVest
   parent: RMCCrateBase
-  name: ящик коричневих і чорних жилетів (по 2 шт.)
+  name: Ящик коричневих і чорних жилетів (по 2 шт.)
   components:
   - type: StorageFill
     contents:
@@ -55,7 +55,7 @@
 - type: entity
   id: RMCCrateClothingWebbingKnife
   parent: RMCCrateBase
-  name: ящик жилетів для ножів (3 шт.)
+  name: Ящик жилетів для ножів (3 шт.)
   components:
   - type: StorageFill
     contents:
@@ -65,7 +65,7 @@
 - type: entity
   id: RMCCrateClothingWebbingHolster
   parent: RMCCrateBase
-  name: ящик плечових кобур (4 шт.)
+  name: Ящик плечових кобур (4 шт.)
   components:
   - type: StorageFill
     contents:
@@ -75,7 +75,7 @@
 - type: entity
   id: RMCCrateClothingWebbingPouch
   parent: RMCCrateBase
-  name: ящик сумків для скиду (4 шт.)
+  name: Ящик сумків для скиду (4 шт.)
   components:
   - type: StorageFill
     contents:
@@ -85,7 +85,7 @@
 - type: entity
   id: RMCCrateClothingOfficerOutfit
   parent: RMCCrateBase
-  name: ящик офіцерських уніформ
+  name: Ящик офіцерських уніформ
   components:
   - type: StorageFill
     contents:
