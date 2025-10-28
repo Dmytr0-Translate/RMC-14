@@ -17,6 +17,10 @@ rmc-xeno-fury-increase-user = Нас переповнює лють!
 rmc-xeno-not-enough-acid = У вас недостатньо накопиченої кислоти!
 rmc-xeno-acid-increase-user = Ви відчуваєте, як ваші запаси кислоти зростають!
 
+# Shards
+rmc-xeno-not-enough-shards = We don't have enough shards!
+rmc-xeno-shards-increase-user = We grow more shards!
+
 # Construction
 cm-xeno-choose-resin-structure = Оберіть Структуру Смоли
 cm-xeno-order-construction = Збудувати
@@ -383,3 +387,12 @@ rmc-gut-start-others = {$user} впивається кігтями в тіло {
 
 rmc-gut-finish-self = Ми розриваємо цього жалюгідного інкубатора навпіл!!
 rmc-gut-finish-others = {$user} розриває {$target} навпіл!!
+
+# Shed Spikes
+rmc-shed-spikes = We have shed our shards and cannot gain any more for 30 seconds!
+rmc-shed-spikes-back = We can gain shards again!
+
+# Spike Shield
+rmc-spike-shield-self = We ruffle our bone-shard quills, forming a defensive shell!
+rmc-spike-shield-others = {$user} ruffles its bone-shard quills, forming a defensive shell!
+rmc-spike-shield-hit = {$user} sprays bone quills everywhere!

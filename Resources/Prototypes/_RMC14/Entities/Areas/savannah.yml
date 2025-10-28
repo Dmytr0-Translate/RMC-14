@@ -481,7 +481,7 @@
   parent: RMCAreaSavannahLifeboatAmidship
   id: RMCAreaSavannahLifeboatStarboard
   name: Стикування Рятувальної Шлюпки Правого Борту
-  
+
 - type: entity
   parent: RMCAreaSavannahLifeboatAmidship
   id: RMCAreaSavannahLifeboatPort
