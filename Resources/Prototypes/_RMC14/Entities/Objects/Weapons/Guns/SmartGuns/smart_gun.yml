@@ -2,7 +2,7 @@
   abstract: true
   parent: [ CMBaseWeaponGun, BaseItem, RMCBaseAttachableHolder ]
   id: RMCSmartGunNoCamo
-  name: МЛ66A смарт-кулемет
+  name: МЛ66A СмартГан
   description: "Справжня кулеметна гармата з системою 'Система Розумного Кулемета'. По суті, це важкий, мобільний кулемет."
   components:
   - type: Wieldable
@@ -261,7 +261,7 @@
 - type: entity
   parent: RMCSmartGunNoCamo
   id: RMCSmartGunCO
-  name: "МЛ66Б 'кавалерійський' смарт-кулемет"
+  name: "МЛ66Б 'кавалерійський' СмартГан"
   description: "Справжня кулеметна гармата з системою 'Система Розумного Кулемета'. Окрім міцнішого корпусу, системи ідентифікаційного замка та фантазійного фарбування, зброя ідентична стандартній моделі МЛ66A."
   components:
   - type: Sprite
