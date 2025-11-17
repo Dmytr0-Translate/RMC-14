@@ -5,7 +5,7 @@
   Вітаємо, молодший капрале! Вас було обрано для роботи з одним із кращих, якщо не [italic]найкращим[/italic], зразком технологічного прогресу у сфері вогнепальної зброї за останнє століття – [bold]МЛ66А СмартГан[/bold]! Заздрю чувак!
 
   <Box>
-    <GuideEntityEmbed Entity="RMCSmartGun" Caption="ML66A Smartgun"/>
+    <GuideEntityEmbed Entity="RMCSmartGun" Caption="МЛ66А СмартГан"/>
   </Box>
 
   Ця вершина інженерної майстерності Морської піхоти може похвалитися [bold]барабаном у 500 набоїв[/bold], стандартно комплектується [bold]пневмопідсиленим бойовим кріпленням[/bold] для зручності використання та що найважливіше, оснащена [bold]системою УДВ (Уникання дружнього вогню)[/bold] для запобігання випадкам дружнього вогню.
@@ -16,28 +16,28 @@
   Спробуй стримати свою дитячу радість від отримання такої почесної посади – деякі морпіхи можуть і позаздрити твоїй удачі. Краще хутко вдягайся та готуй спорядження, перш ніж почнеш буквально сяяти від гордості.
 
   <Box>
-    <GuideEntityEmbed Entity="RMCGuidebookRoleSGO" Caption="You!"/>
+    <GuideEntityEmbed Entity="RMCGuidebookRoleSGO" Caption="Ти!"/>
   </Box>
 
   Ваша [bold]кімната екіпірування[/bold] завжди буде останньою перед входом до [bold]основного залу збору[/bold] у кожному крилі казарм. Тут ви знайдете дві стійки, що видають необхідне та додаткове спорядження для вашого розгортання. [bold]Пам'ятайте[/bold]: ваш ремінь для набоїв СмартГана видається у [bold]стійці з уніформою[/bold], тоді як [bold]стійка з озброєнням[/bold] містить зброю, набої та бойове кріплення.
 
   <Box>
-    <GuideEntityEmbed Entity="ColMarTechSGEquipment" Caption="Uniform vendor"/>
-    <GuideEntityEmbed Entity="CMBeltSmartGunOperatorFilled" Caption="ML66A ammo belt"/>
+    <GuideEntityEmbed Entity="ColMarTechSGEquipment" Caption="стійка з уніформою"/>
+    <GuideEntityEmbed Entity="CMBeltSmartGunOperatorFilled" Caption="ремінь оператора СмартГана"/>
   </Box>
 
   Також доступний варіант [bold]ременя з кобурою для пістолета[/bold], який дозволяє носити стандартний пістолет ціною одного слота під барабан. Деякі ОСГ надають перевагу пістолету як додатковій зброї швидкого доступу, тоді як інші вважають його зайвим – обирайте відповідно до власних уподобань.
 
   <Box>
-    <GuideEntityEmbed Entity="RMCBeltSmartGunOperatorPistolFilled" Caption="Ammo belt with sidearm holster"/>
+    <GuideEntityEmbed Entity="RMCBeltSmartGunOperatorPistolFilled" Caption="ремінь оператора СмартГана з кобурою"/>
   </Box>
 
   ## Екіпірування
-  Ваш [bold]автомат озброєння[/bold] видає кейс, що містить:
+  Ваша [bold]стійка озброєння[/bold] видає кейс, що містить:
 
   <Box>
-  <GuideEntityEmbed Entity="ColMarTechSGGear" Caption="Weapons vendor"/>
-    <GuideEntityEmbed Entity="CMSmartGunOperatorEquipmentCase" Caption="ML66A Smartgun case"/>
+  <GuideEntityEmbed Entity="ColMarTechSGGear" Caption="стійка обзроєння"/>
+    <GuideEntityEmbed Entity="CMSmartGunOperatorEquipmentCase" Caption="кейс МЛ66А СмартГан"/>
   </Box>
 
   - [bold]1 МЛ66A СмартГан (заряджений)[/bold]
@@ -47,8 +47,8 @@
   - [bold]3 барабана МЛ66А[/bold]
 
   <Box>
-    <GuideEntityEmbed Entity="RMCPowerCellSmartgun" Caption="ML66A battery"/>
-    <GuideEntityEmbed Entity="RMCMagazineSmartGun" Caption="ML66A ammo drums"/>
+    <GuideEntityEmbed Entity="RMCPowerCellSmartgun" Caption="батерея МЛ66А"/>
+    <GuideEntityEmbed Entity="RMCMagazineSmartGun" Caption="барабан МЛ66А"/>
   </Box>
 
   За замовчуванням додаткові підсумки не надаються, тож оснастіть себе ними за потреби.
@@ -56,27 +56,45 @@
   ### Основні зауваження щодо екіпіровки:
   - Ви [italic]обов'язково[/italic] повинні носити [bold]бойове кріплення МЛ66A[/bold], щоб мати змогу закріпити СмартГан на спину. Перед встановленням кріплення зніміть усі предмети з спини.
   <Box>
-    <GuideEntityEmbed Entity="CMArmorSmartGunCombatHarness" Caption="ML66A Combat Harness"/>
+    <GuideEntityEmbed Entity="CMArmorSmartGunCombatHarness" Caption="бойове кріплення МЛ66А"/>
   </Box>
   - Після одягнення, ваш [bold]налобний візор[/bold] активується автоматично. Він не використовує заряд акумулятора зброї й може бути увімкнений або вимкнений через ваш HUD.
   <Box>
-    <GuideEntityEmbed Entity="RMCGlassesSmartGunSight" Caption="ML66A Head Mounted Sight"/>
+    <GuideEntityEmbed Entity="RMCGlassesSmartGunSight" Caption="налобний візор МЛ66А"/>
   </Box>
   - Увімкніть [bold]ліхтар на бойовому кріплені[/bold], щоб побратими могли бачити вас в умовах обмеженої видимості.
   - [bold]Носіння боєкомплекту[/bold]: вам знадобиться щонайменше [bold]один (1) Великий загальний підсумок[/bold], який здатний вмістити [bold]два додаткові барабани[/bold] або інше спорядження.
 
   <Box>
-    <GuideEntityEmbed Entity="RMCPouchGeneralLargeFilledSmartGunDrums" Caption="Large general pouch"/>
+    <GuideEntityEmbed Entity="RMCPouchGeneralLargeFilledSmartGunDrums" Caption="Великий загальний підсумок"/>
   </Box>
 
   Після екіпірування перевірте [bold]стійку амуніції КолМарТех[/bold] на стороні вашого загону в основному залі збору, щоб отримати [bold]додаткові безкоштовні барабани[/bold]. Нові барабани з'являються в міру пробудження морпіхів, тож загляньте ще раз перед розгортання.
 
   <Box>
-    <GuideEntityEmbed Entity="ColMarTechMunitions" Caption="Special ammo vendor"/>
+    <GuideEntityEmbed Entity="ColMarTechMunitions" Caption="стійка амуніції КолМарТех"/>
   </Box>
 
   Для отримання ще кількох барабанів, зверніться до [bold]постачання[/bold] де можна запросити до [bold]двох додаткових барабанів[/bold]. [bold]ОЛ[/bold] може схвалити й більше, але не розраховуйте на це – бюджет та кількість барабанів обмежені, а поповнення на поверхні колонії вимагатиме часу та координації.
 
+  ### Додаткові поради:
+  - Якщо вас охоплює відчуття небезпеки, яке ніби щось каже: "Тебе можуть поранити", – зверніться до медичного відділу й візьміть підсумок із додатковими ліками. А якщо вам не байдуже й життя побратимів, не забудьте прихопити й окуляри МедОко для спостереження за їх станом здоров'я.
+  
+  <Box>
+    <GuideEntityEmbed Entity="RMCPouchReagentCanister" Caption="герметичний підсумок з реагентом"/>
+    <GuideEntityEmbed Entity="RMCGlassesMedicalHUDGlasses" Caption="окуляри МедОко"/>
+  </Box>
+  - Під свої завдання варто заповнити розвантажувальний жилет потрібними речами: від флаєрів і носилок до інструментів та матеріалів. Обирайте те, що реально стане в пригоді.
+  
+  <Box>
+    <GuideEntityEmbed Entity="CMWebbingBrown" Caption="розвантажувальний жилет"/>
+  </Box>
+  - За 15 балів у [bold]стійці з озброєнням[/bold] можна придбати [bold]мечетний чохол для МЛ66А[/bold]. Він кріпиться на спину, але лише за умови, що ви вже вдягли бойове кріплення та сам СмартГан. Чудова річ аби руйнувати легкі об'єкти з одного удару.
+  <Box>
+    <GuideEntityEmbed Entity="ColMarTechSGGear" Caption="стійка озброєння"/>
+    <GuideEntityEmbed Entity="RMCScabbardMacheteSGFilled" Caption="мечетний чохол"/>
+  </Box>
+  
   ### Слоти шолома:
   Більшість [bold]лідерів вимагають обов'язкового носіння шоломів[/bold] від морпіхів-спеціалістів. Хоча це й обмежує можливості для вашого стилю, однак надає два додаткові слоти для [bold]автоінжекторів, фляги або особистих дрібниць[/bold].
 
@@ -119,7 +137,7 @@
   - Тримайте [bold]Датчик руху увімненим постійно[/bold].
 
   <Box>
-    <GuideEntityEmbed Entity="RMCGuidebookActionMotionDetector" Caption="Motion detector toggle" />
+    <GuideEntityEmbed Entity="RMCGuidebookActionMotionDetector" Caption="Перемикач датчика руху" />
   </Box>
 
   - Оскільки він не відображає [bold]число кількості ворогів[/bold], [bold]оголошуйте[/bold] про місцезнаходження групи ворогів та їх рух.
@@ -130,7 +148,7 @@
   - Вимкнення УДВ робить [bold]дружній вогонь[/bold] гарантованим, тому потребує високої ситуаційної пильності.
 
   <Box>
-    <GuideEntityEmbed Entity="RMCGuidebookActionIFF" Caption="IFF toggle being ON" />
+    <GuideEntityEmbed Entity="RMCGuidebookActionIFF" Caption="Перемикач УДВ увімкнено" />
   </Box>
 
   ## Останні зауваження:
