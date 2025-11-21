@@ -367,7 +367,7 @@
 - type: entity
   parent: RMCMagazineSmartGun
   id: RMCMagazineSmartGunirradiated
-  name: "ML79A барабанний кислотний магазин (10x30 мм)"
+  name: "МЛ79A барабанний кислотний магазин (10x30 мм)"
   components:
   - type: BallisticAmmoProvider
     whitelist:
