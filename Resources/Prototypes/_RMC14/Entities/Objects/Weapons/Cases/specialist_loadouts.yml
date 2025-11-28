@@ -2,7 +2,7 @@
   parent: RMCBaseEquipmentCase
   id: CMSniperEquipmentCase
   name: набір снайпера
-  description: "Великий кейс, що містить дуже далекобійну снайперську гвинтівку M96S, камуфляжну броню M45 і шолом, ПНБ M42, оптику, та додаткове обладнання.\n\nНОТАТКА: Ви не можете покласти речі назад у цей кейс."
+  description: "Великий кейс, що містить дуже далекобійну оптичну гвинтівку M96S, камуфляжну броню M45 і шолом, ПНБ M96, оптику, та додаткове обладнання.\n\nНОТАТКА: Ви не можете покласти речі назад у цей кейс."
   components:
   - type: StorageFill
     contents:
@@ -32,8 +32,8 @@
 - type: entity
   parent: CMSniperEquipmentCase
   id: RMCAntiMaterielEquipmentCase
-  name: anti-materiel sniper equipment case
-  description: "A large case containing your very own long-range XM43E1 anti-materiel sniper rifle, M45 ghillie armor and helmet, M42 scout sight, ammunition, spotter equipment, and additional pieces of equipment.\n\nNOTE: You cannot put items back inside this case."
+  name: набір анти-матеріального снайпера
+  description: "Великий кейс, що містить вашу власну далекобійну анти-матеріальну снайперську гвинтівку XM43E1, камуфляжну броню M45 і шолом, ПНБ M96, магазини та додаткове обладнання.\n\nНОТАТКА: Ви не можете покласти речі назад у цей кейс."
   components:
   - type: StorageFill
     contents:
@@ -86,8 +86,8 @@
 - type: entity
   parent: RMCBaseEquipmentCase
   id: RMCDemoSpecEquipmentCase
-  name: набір підривника
-  description: "Великий кейс, що містить великоліберну протитанкову пукову установку M5, легку противибухову броню M3-T, п'ять 84мм ракет, і додаткове обладнання.\n\nНОТАТКА: Ви не можете покласти речі назад у цей кейс."
+  name: набір ракетника
+  description: "Великий кейс, що містить великоліберний проти-танковий гранатомет M5, легку противибухову броню M3-T, п'ять 84мм ракет, і додаткове обладнання.\n\nНОТАТКА: Ви не можете покласти речі назад у цей кейс."
   components:
   - type: Sprite
     layers:
@@ -172,7 +172,7 @@
   parent: RMCKitBase
   id: RMCKitLoader
   name: набір заряджаючого
-  description: "Великий набір, що можна видати стрільцю, який зголосився стати помічником підривника.
+  description: "Великий набір, що можна видати стрільцю, який зголосився стати заряджаючим.
 
     Невелика покрокова інструкція:
 
@@ -223,7 +223,7 @@
 - type: entity
   parent: RMCKitBase
   id: RMCKitSpotter
-  name: spotter kit
+  name: набір навідника
   components:
   - type: Storage
     maxItemSize: Huge

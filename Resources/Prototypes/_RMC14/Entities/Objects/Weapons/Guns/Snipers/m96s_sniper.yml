@@ -91,7 +91,7 @@
 - type: entity
   parent: BaseItem
   id: CMMagazineSniperM96S
-  name: "M96S снайперський магазин (10x28мм)"
+  name: "M96S снайперський магазин (10x28 мм)"
   description: Магазин набоїв для снайперської гвинтівки. Влучний постріл ним завдає значної шкоди.
   components:
   - type: Tag
@@ -130,7 +130,7 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SIncendiary
-  name: "M96S запальний магазин (10x28мм)"
+  name: "M96S запальний магазин (10x28 мм)"
   description: Магазин набоїв для снайперської гвинтівки. Прицільний постріл ним, тимчасово засліпить ціль і підпалить її.
   components:
   - type: BallisticAmmoProvider
@@ -149,7 +149,7 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SFlak
-  name: "M96S сповільнювальний магазин (10x28мм)"
+  name: "M96S сповільнювальний магазин (10x28 мм)"
   description: Магазин набоїв для снайперської гвинтівки. Влучний постріл з нього тимчасово сповільнить ціль.
   components:
   - type: BallisticAmmoProvider
@@ -168,7 +168,7 @@
 - type: entity
   parent: CMCartridgeSniper10x28mm
   id: CMCartridgeSniper10x28mmIncendiary
-  name: гільза (10x28мм) (запальна)
+  name: гільза (10x28 мм) (запальна)
   components:
   - type: CartridgeAmmo
     proto: CMBulletSniper10x28mmIncendiary
@@ -176,7 +176,7 @@
 - type: entity
   parent: CMCartridgeSniper10x28mm
   id: CMCartridgeSniper10x28mmFlak
-  name: гільза (10x28мм) (сповільнювальна)
+  name: гільза (10x28 мм) (сповільнювальна)
   components:
   - type: CartridgeAmmo
     proto: CMBulletSniper10x28mmFlak
@@ -184,7 +184,7 @@
 - type: entity
   parent: RMCBaseBullet
   id: CMBulletSniper10x28mm
-  name: куля (10x28мм)
+  name: куля (10x28 мм)
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -217,7 +217,7 @@
 - type: entity
   parent: CMBulletSniper10x28mm
   id: CMBulletSniper10x28mmIncendiary
-  name: куля (10x28мм)
+  name: куля (10x28 мм)
   categories: [ HideSpawnMenu ]
   components:
   - type: Projectile
@@ -236,7 +236,7 @@
 - type: entity
   parent: CMBulletSniper10x28mm
   id: CMBulletSniper10x28mmFlak
-  name: куля (10x28мм)
+  name: куля (10x28 мм)
   categories: [ HideSpawnMenu ]
   components:
   - type: Projectile
