@@ -36,8 +36,8 @@
   - Гранатометники застосовують багатозарядний гранатомет M83 для точного запуску різних типів гранат, розчищаючи маршрути та знищуючи навіть групи ворогів. Їхня броня M3-G4 забезпечує підвищений рівень захисту.
   <Box> <GuideEntityEmbed Entity="WeaponLauncherM83" Context=""/> <GuideEntityEmbed Entity="RMCArmorM3G4" Context=""/> <GuideEntityEmbed Entity="CMGrenadeFrag" Context=""/> <GuideEntityEmbed Entity="CMGrenadeHighExplosive" Context=""/> <GuideEntityEmbed Entity="RMCGrenadeIncendiary" Context=""/> </Box>
 
-  - [bold][textlink="Розвідник" link="RMCGuideRoleSpecScout"][/textlink][/bold] - "Невидимий вбивця та розвідник"
-  - Озброєний спеціальною бойовою гвинтівкою M4SPR та термоплащем M68, розвідник чудово виконує завдання з розвідки, позначає цілі за допомогою свого цілевказівника, а також завдає сильних та високоточних атак.
+  - [bold][textlink="Розвідник" link="RMCGuideRoleSpecScout"][/textlink][/bold] - "Тихий мисливець"
+  - Озброєний спеціальною бойовою гвинтівкою М4СПГ та термоплащем M68, розвідник чудово виконує завдання з розвідки, позначає цілі за допомогою свого цілевказівника, а також завдає сильних та високоточних атак.
   <Box> <GuideEntityEmbed Entity="WeaponRifleM4SPRCustom" Context=""/> <GuideEntityEmbed Entity="RMCBackpackScout" Context=""/> <GuideEntityEmbed Entity="RMCLaserDesignatorScout" Context=""/> </Box>
 
   - [bold][textlink="Снайпер" link="RMCGuideRoleSpecSniper"][/textlink][/bold] - "Соколине око"

@@ -1,7 +1,7 @@
 ﻿- type: entity
   parent: RMCBaseWeaponSniperRifle
   id: CMM96SSniperRifle
-  name: M96S оптична гвинтівка
+  name: М96С оптична гвинтівка
   description: "Потужна снайперська гвинтівка виробництва компанії Aegis Armaments. Гвинтівка має оптичний приціл та стріляє бронебійними патронами з 15-зарядного магазину.
     'Мир за допомогою військової сили'"
   components:
@@ -91,7 +91,7 @@
 - type: entity
   parent: BaseItem
   id: CMMagazineSniperM96S
-  name: "M96S снайперський магазин (10x28 мм)"
+  name: "М96С снайперський магазин (10x28 мм)"
   description: Магазин набоїв для снайперської гвинтівки. Влучний постріл ним завдає значної шкоди.
   components:
   - type: Tag
@@ -130,7 +130,7 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SIncendiary
-  name: "M96S запальний магазин (10x28 мм)"
+  name: "М96С запальний магазин (10x28 мм)"
   description: Магазин набоїв для снайперської гвинтівки. Прицільний постріл ним, тимчасово засліпить ціль і підпалить її.
   components:
   - type: BallisticAmmoProvider
@@ -149,7 +149,7 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SFlak
-  name: "M96S сповільнювальний магазин (10x28 мм)"
+  name: "М96С сповільнюючий магазин (10x28 мм)"
   description: Магазин набоїв для снайперської гвинтівки. Влучний постріл з нього тимчасово сповільнить ціль.
   components:
   - type: BallisticAmmoProvider
@@ -176,7 +176,7 @@
 - type: entity
   parent: CMCartridgeSniper10x28mm
   id: CMCartridgeSniper10x28mmFlak
-  name: гільза (10x28 мм) (сповільнювальна)
+  name: гільза (10x28 мм) (сповільнююча)
   components:
   - type: CartridgeAmmo
     proto: CMBulletSniper10x28mmFlak
