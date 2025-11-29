@@ -28,7 +28,7 @@
   ## Доступні набори спеціалістів
   Натисніть на ім'я спеціаліста, щоб отримати докладний посібник з описом його спорядження, тактики та унікальних здібностей.
 
-  - [bold][textlink="Ракетник" link="RMCGuideRoleSpecDemo"][/textlink][/bold] - "Вишибала"
+  - [bold][textlink="Ракетник" link="RMCGuideRoleSpecDemo"][/textlink][/bold] - "Руйнівник"
   - Коли необхідно гарантовано знищити ціль, ракетник застосовує проти-танковий гранатомет M5. Ця зброя здатна запускати осколково-фугасні й бронебійні ракети, що становить серйозну загрозу для важко захищених цілей і укріплених позицій.
   <Box> <GuideEntityEmbed Entity="RMCWeaponLauncherM5ATL" Context="" /> <GuideEntityEmbed Entity="RMCRocket84mm" Context=""/> <GuideEntityEmbed Entity="RMCRocket84mmAntiArmor" Context=""/> <GuideEntityEmbed Entity="RMCExplosivePlastic" Context=""/> </Box>
 

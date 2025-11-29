@@ -66,8 +66,8 @@
 - type: entity
   parent: ClothingEyesHudMedical
   id: RMCGlassesM4SPRBattleSight
-  name: налобний візор M4SPR
-  description: "Налобний візор для M4SPR. Оснащений системою нічного бачення і показує стан здоров’я союзників через сенсори їхнього спорядження."
+  name: налобний візор М4СПГ
+  description: "Налобний візор для М4СПГ. Оснащений системою нічного бачення і показує стан здоров'я союзників через сенсори їхнього спорядження."
   components:
   - type: Item
     storedRotation: 0
