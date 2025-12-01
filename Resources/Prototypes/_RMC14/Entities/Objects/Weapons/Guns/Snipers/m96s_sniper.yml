@@ -92,7 +92,7 @@
   parent: BaseItem
   id: CMMagazineSniperM96S
   name: "М96С снайперський магазин (10x28 мм)"
-  description: Магазин набоїв для снайперської гвинтівки. Влучний постріл ним завдає значної шкоди.
+  description: Магазин набоїв для снайперської гвинтівки. При прицільному пострілі завдає значної шкоди.
   components:
   - type: Tag
     tags:
@@ -131,7 +131,7 @@
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SIncendiary
   name: "М96С запальний магазин (10x28 мм)"
-  description: Магазин набоїв для снайперської гвинтівки. Прицільний постріл ним, тимчасово засліпить ціль і підпалить її.
+  description: Магазин набоїв для снайперської гвинтівки. При прицільному пострілі з нього тимчасово засліпить ціль і підпалить її.
   components:
   - type: BallisticAmmoProvider
     proto: CMCartridgeSniper10x28mmIncendiary
@@ -149,8 +149,8 @@
 - type: entity
   parent: CMMagazineSniperM96S
   id: CMMagazineSniperM96SFlak
-  name: "М96С сповільнюючий магазин (10x28 мм)"
-  description: Магазин набоїв для снайперської гвинтівки. Влучний постріл з нього тимчасово сповільнить ціль.
+  name: "М96С зенітний магазин (10x28 мм)"
+  description: Магазин набоїв для снайперської гвинтівки. При прицільному пострілі з нього тимчасово сповільнить ціль.
   components:
   - type: BallisticAmmoProvider
     proto: CMCartridgeSniper10x28mmFlak
@@ -176,7 +176,7 @@
 - type: entity
   parent: CMCartridgeSniper10x28mm
   id: CMCartridgeSniper10x28mmFlak
-  name: гільза (10x28 мм) (сповільнююча)
+  name: гільза (10x28 мм) (зенітна)
   components:
   - type: CartridgeAmmo
     proto: CMBulletSniper10x28mmFlak

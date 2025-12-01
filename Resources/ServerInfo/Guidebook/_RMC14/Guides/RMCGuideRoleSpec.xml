@@ -28,20 +28,20 @@
   ## Доступні набори спеціалістів
   Натисніть на ім'я спеціаліста, щоб отримати докладний посібник з описом його спорядження, тактики та унікальних здібностей.
 
-  - [bold][textlink="Ракетник" link="RMCGuideRoleSpecDemo"][/textlink][/bold] - "Руйнівник"
-  - Коли необхідно гарантовано знищити ціль, ракетник застосовує проти-танковий гранатомет M5. Ця зброя здатна запускати осколково-фугасні й бронебійні ракети, що становить серйозну загрозу для важко захищених цілей і укріплених позицій.
-  <Box> <GuideEntityEmbed Entity="RMCWeaponLauncherM5ATL" Context="" /> <GuideEntityEmbed Entity="RMCRocket84mm" Context=""/> <GuideEntityEmbed Entity="RMCRocket84mmAntiArmor" Context=""/> <GuideEntityEmbed Entity="RMCExplosivePlastic" Context=""/> </Box>
-
-  - [bold][textlink="Гранатометник" link="RMCGuideRoleSpecGrenadier"][/textlink][/bold] - "Любитель вибухівки"
-  - Гранатометники застосовують багатозарядний гранатомет M83 для точного запуску різних типів гранат, розчищаючи маршрути та знищуючи навіть групи ворогів. Їхня броня M3-G4 забезпечує підвищений рівень захисту.
-  <Box> <GuideEntityEmbed Entity="WeaponLauncherM83" Context=""/> <GuideEntityEmbed Entity="RMCArmorM3G4" Context=""/> <GuideEntityEmbed Entity="CMGrenadeFrag" Context=""/> <GuideEntityEmbed Entity="CMGrenadeHighExplosive" Context=""/> <GuideEntityEmbed Entity="RMCGrenadeIncendiary" Context=""/> </Box>
-
   - [bold][textlink="Розвідник" link="RMCGuideRoleSpecScout"][/textlink][/bold] - "Тихий мисливець"
   - Озброєний спеціальною бойовою гвинтівкою М4СПГ та термоплащем M68, розвідник чудово виконує завдання з розвідки, позначає цілі за допомогою свого цілевказівника, а також завдає сильних та високоточних атак.
   <Box> <GuideEntityEmbed Entity="WeaponRifleM4SPRCustom" Context=""/> <GuideEntityEmbed Entity="RMCBackpackScout" Context=""/> <GuideEntityEmbed Entity="RMCLaserDesignatorScout" Context=""/> </Box>
 
+  - [bold][textlink="Гранатометник" link="RMCGuideRoleSpecGrenadier"][/textlink][/bold] - "Любитель вибухівки"
+  - Гранатометники застосовують багатозарядний гранатомет M83 для точного запуску різних типів гранат, розчищаючи маршрути та знищуючи навіть групи ворогів. Їхня броня М3-Г4 забезпечує підвищений рівень захисту.
+  <Box> <GuideEntityEmbed Entity="WeaponLauncherM83" Context=""/> <GuideEntityEmbed Entity="RMCArmorM3G4" Context=""/> <GuideEntityEmbed Entity="CMGrenadeFrag" Context=""/> <GuideEntityEmbed Entity="CMGrenadeHighExplosive" Context=""/> <GuideEntityEmbed Entity="RMCGrenadeIncendiary" Context=""/> </Box>
+
+  - [bold][textlink="Ракетник" link="RMCGuideRoleSpecDemo"][/textlink][/bold] - "Руйнівник"
+  - Коли необхідно гарантовано знищити ціль, ракетник застосовує проти-танковий гранатомет M5. Ця зброя здатна запускати осколково-фугасні й бронебійні ракети, що становить серйозну загрозу для важко захищених цілей і укріплених позицій.
+  <Box> <GuideEntityEmbed Entity="RMCWeaponLauncherM5ATL" Context="" /> <GuideEntityEmbed Entity="RMCRocket84mm" Context=""/> <GuideEntityEmbed Entity="RMCRocket84mmAntiArmor" Context=""/> <GuideEntityEmbed Entity="RMCExplosivePlastic" Context=""/> </Box>
+
   - [bold][textlink="Снайпер" link="RMCGuideRoleSpecSniper"][/textlink][/bold] - "Соколине око"
-  - Озброєний оптичною гвинтівкою M96S або анти-матеріальною гвинтівкою XM43E1. Цей спеціаліст забезпечує критично важливу далекобійну вогневу підтримку. Він здатний сповільнювати уражені цілі та виступає потужним психологічним стримуючим фактором для ксеноморфних наступів. Постачається з набором Навідника для стрільця.
+  - Озброєний оптичною гвинтівкою М96С або анти-матеріальною гвинтівкою ТМ43Е1. Цей спеціаліст забезпечує критично важливу далекобійну вогневу підтримку. Він здатний сповільнювати уражені цілі та виступає потужним психологічним стримуючим фактором для ксеноморфних наступів. Постачається з набором Навідника для стрільця.
   <Box> <GuideEntityEmbed Entity="CMM96SSniperRifle" Context=""/> <GuideEntityEmbed Entity="RMCXM43E1AntiMaterielRifle" Context=""/> <GuideEntityEmbed Entity="RMCKitSpotter" Context=""/> </Box>
 
 </Document>
