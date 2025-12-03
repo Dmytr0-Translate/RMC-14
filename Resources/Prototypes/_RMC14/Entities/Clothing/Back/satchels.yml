@@ -440,8 +440,8 @@
 - type: entity
   parent: CMSatchel
   id: RMCSatchelGrenadeSpec
-  name: UNMC IMP M63A1 grenade satchel
-  description: A satchel specially designed to maximize grenade carrying capacity while minimizing the risks of secondary ignition.
+  name: сумка для гранат КМПОН ІМП М63А1
+  description: Сумка, спеціально розроблена для перенесення велокої кількості гранат із мінімальним ризиком незапланованої детонацї.
   components:
   # TODO ID locking feature + make lights green when unlocked.
   - type: ExplosionResistance
