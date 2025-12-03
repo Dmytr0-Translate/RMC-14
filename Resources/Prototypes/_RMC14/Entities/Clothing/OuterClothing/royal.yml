@@ -3,7 +3,7 @@
 - type: entity
   parent: [CMArmorM4PMC, RMCAllowSuitStorageClothingArmorRoyal]
   id: RMCArmorRoyal
-  name: kestrel armoured vest
+  name: бронежилет 'Кестрел'
   description: Налаштовувана персональна система бронезахисту, яку використовує Королівська морська піхота. # TODO: write new, legally distinct description
   components:
   - type: Sprite
@@ -12,7 +12,7 @@
 - type: entity
   parent: RMCArmorRoyal
   id: RMCArmorRoyalLight
-  name: kestrel light armoured vest
+  name: легкий бронежилет 'Кестрел'
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Royal/light.rsi
@@ -29,7 +29,7 @@
 - type: entity
   parent: RMCArmorRoyal
   id: RMCArmorRoyalPadded
-  name: kestrel armoured carry vest
+  name: броньований жилет 'Кестрел'
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Royal/padded.rsi
@@ -60,7 +60,7 @@
 - type: entity
   parent: RMCArmorRoyalPadded
   id: RMCArmorRoyalPointman
-  name: kestrel pointman armour
+  name: передова броня 'Кестрел'
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/OuterClothing/Royal/pointman.rsi
