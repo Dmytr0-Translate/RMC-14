@@ -559,7 +559,7 @@
   parent: RMCBeltSmartGunOperatorPistol
   id: RMCBeltSmartGunOperatorPistolCLF
   name: ремінь 'Свобода' оператора СмартГана з кобурою зразка М802
-  description: Модифікація стандартного ременя M802, призначена для перенесення боєприпасів СмартГана та револьвера Матеба. На цьому екземплярі над виробничим штампом нанесено логотип ФВК.
+  description: Модифікація стандартного ременя М802, призначена для перенесення боєприпасів СмартГана та револьвера Матеба. На цьому екземплярі над виробничим штампом нанесено логотип ФВК.
   suffix: Filled, Mateba
   components:
   - type: StorageFill
@@ -1628,8 +1628,8 @@
 - type: entity
   parent: RMCBeltSmartGunOperatorPistol
   id: RMCBeltSmartGunOperatorPistolPMC
-  name: ремінь СмартГанера з кобурою зразка WY-TM410
-  description: Спеціальний зразок Ве-Я бойового ременю, створений для переноски боєприпасів до СмартГану та оснащений кобурою.
+  name: ремінь СмартГанера з кобурою зразка ВеЯ-ТМ410
+  description: Спеціальний зразок бойового ременю Ве-Я, створений для переноски боєприпасів до СмартГану та оснащений кобурою.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Belt/smart_gun_operator_pistol_wy.rsi
