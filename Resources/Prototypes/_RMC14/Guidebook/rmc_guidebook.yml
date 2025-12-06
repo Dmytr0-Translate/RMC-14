@@ -195,7 +195,7 @@
 - type: guideEntry # made by UnicornOnLSD (GitHub)
   parent: RMC
   id: RMCGuideSquadLeader
-  name: "Лідер Загону 101"
+  name: "Керування Загоном 101"
   priority: 14
   text: "/ServerInfo/Guidebook/_RMC14/Guides/RMCGuideSquadLeader.xml"
 

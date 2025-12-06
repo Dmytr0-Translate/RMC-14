@@ -342,7 +342,7 @@
   parent: RMCArmorHelmetM3Scout
   id: RMCArmorHelmetM3G4
   name: шолом М3-Г4 
-  description: Поєднується з важкою бронею гранатометника М3-Г4. Далекий родич захисного шолому B18. # As such, it also resists some parasite latching attempts.
+  description: Поєднується з важкою бронею гранатометника М3-Г4. Далекий родич захисного шолому В18. # As such, it also resists some parasite latching attempts.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Clothing/Head/Helmets/m3/g4/jungle.rsi
