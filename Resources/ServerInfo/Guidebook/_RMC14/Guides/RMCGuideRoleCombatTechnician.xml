@@ -152,7 +152,7 @@
   </Box>
 
   Не підйомні барикади мають три види покращень, кожна з яких потребує 2 металевих листа:
-  - [bold]Антикислотна[/bold]: Забезпечує стійкість до роз'їдання різними кислотами.
+  - [bold]Антикислотна[/bold]: Забезпечує часткову стійкість до роз'їдання різними кислотами.
   - [bold]Вибухостійка[/bold]: Зменшує шкоду від вибухів.
   - [bold]Посилена[/bold]: Підвищує стійкість до різних пошкоджень.
 
@@ -165,6 +165,77 @@
   </Box>
 
   У разі пошкодження барикади, її можна відремонтувати. Візьміть цвяхостріл та металеві листи, після чого використайте інструмент на барикаді для прикріплення металу. Лише тоді за допомогою зварювального апарата проведіть остаточний ремонт. Це тривалий процес, і він не повністю відновлює її міцність, тож під сильним вогнем ваші укріплення рано чи пізно не витримають. Розміщуючи барикади, переконайтесь, що ваші побратими можуть безпечно стріляти по ворогу, і уникайте розміщення барикад біля кутів, де їх можна безкарно атакувати з-за укриття. Якщо маєте додатковий час - розберіть або підірвіть таке укриття, щоби відкрити нові лінії вогню.
+
+  ### Поради щодо будівництва барикад
+
+  Це загальні поради, які допоможуть вам правильно зводити укріплення, уникати типових помилок і підвищувати ефективність оборони.
+
+  - [bold]Направляйте барикади у бік ворога[/bold]: Неправильно розвернуті барикади блокують сектор стрільби морпіхів. Для вогнеметника це критично: його дальність обмежується клітинкою самої барикади, тому неправильно направлені укріплення викликають сильний дизкомфорт та швидко руйнуються.
+
+  - [bold]Розставляйте підйомні пласталеві барикади в проходах[/bold]: Під час зведення укріплень витрачайте пласталеві листи на підйомні пласталеві барикади. Вони значно міцніші за сталеву версію, тож сталь краще використовувати для створення стандартних барикад у лінії оборони.
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> –[bold][color=green]Так правильно[/color][/bold] </Box>
+
+  - [bold]Не розташовуйте барикади впритул до кутів стін[/bold]: Якщо барикада стоїть занадто близько до кута, ворог може ховатися за стіною та ламати її без ризику для себе. Розміщуйте барикади так, щоб для їх знищення ворогу доводилося виходити з укриття.
+  <Box> <GuideEntityEmbed Entity="CMWallMetal" Caption="Стіна"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> –[bold][color=red]Так не правильно[/color][/bold] </Box>
+  <Box> <GuideEntityEmbed Entity="CMWallMetal" Caption="Стіна"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMWallMetal" Caption="Стіна"/> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> </Box>
+  <Box> –[bold][color=green]Так правильно[/color][/bold] </Box>
+
+  - [bold]При зведенні кількох ліній барикад дотримуйтесь дистанції[/bold]: Якщо дозволяє простір, залишайте між лініями щонайменше 3 клітинки. Така відстань зменшує ризик того, що ваших побратимів можуть схопити крізь барикади.
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> </Box>
+  <Box> [color=red]Відстань між барикадами менша ніж 3 клітинки. Є ризик захоплення[/color] </Box>
+  <Box> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> –[bold][color=red]Так не правильно[/color][/bold] </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> </Box>
+  <Box> [color=green]Відстань між барикадами дорівнює 3 клітинкам. Ризик захоплення мінімальний[/color] </Box>
+  <Box> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> <GuideEntityEmbed Entity="CMTileItemSteel" Caption="Підлога"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> –[bold][color=green]Так правильно[/color][/bold] </Box>
+
+  - [bold]Не робіть подвійні барикади[/bold]: Барикади, розміщені впритул одна до одної, блокують сектор стрільби: вогнеметник не зможе підпалювати ворогів, а інші побратими втратять можливість вести вогонь через укріплення.
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeSandbag"/> </Box>
+  <Box> –[bold][color=red]Так не правильно[/color][/bold] </Box>
+
+  - [bold]Дверні проходи розташовуйте паралельно один одному[/bold]: Під час побудови кількох ліній барикад розміщуйте підйомні барикади так, щоб вони йшли паралельно одна одній. Не створюйте "зиг-загів" – це змушує бійців долати зайву відстань і створює зайві затори.
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> –[bold][color=red]Так не правильно[/color][/bold] </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> –[bold][color=green]Так правильно[/color][/bold] </Box>
+
+  - [bold]Розміщуйте дверні проходи ближче до країв[/bold]: Під час будівництва укріплень ставте підйомні проходи не по центру лінії, а трохи збоку. Це зменшує ризик дружнього вогню під час відступу та дає морпіхам безпечнішу траєкторію руху.
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> [color=red]Ризик дружнього вогню при відступу[/color] </Box>
+  <Box> –[bold][color=red]Так не правильно[/color][/bold] </Box>
+  <Box> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> <GuideEntityEmbed Entity="CMBarricadePlasteelDoor" Caption="Підйомна барикада"/> <GuideEntityEmbed Entity="CMBarricadeMetal" Caption="Барикада"/> </Box>
+  <Box> [color=green]Мінімальний ризик дружнього вогню при відступу[/color] </Box>
+  <Box> –[bold][color=green]Так правильно[/color][/bold] </Box>
+
+  - [bold]Використовуйте різні типи покращень залежно від ситуації[/bold]: Антикислотні барикади зменшують шкоду від кислотних атак і чудово підійдуть як перша лінія оборони; вибухостійкі краще стримують гранати та вибухи снарядів; посилені барикади частково поєднують властивості обох типів і є універсальним варіантом.
+  <Box> <GuideEntityEmbed Entity="CMBarricadeBurn" Caption="Антикислотна сталева барикада"/><GuideEntityEmbed Entity="CMBarricadeExplosive" Caption="Вибухостійка сталева барикада"/> <GuideEntityEmbed Entity="CMBarricadeBrute" Caption="Посилена сталева барикада"/> </Box>
+
+  - [bold]Колючий дріт – ваш найкращий друг захисту[/bold]: Банальна порада, але більшість про це забуває. [bold]НІКОЛИ[/bold] не забувайте розміщувати колючий дріт на барикадах. Він не дасть ворогу перелізти через барикади та завдаватиме йому шкоди при спробі це зробити.
+  <Box> <GuideEntityEmbed Entity="BarbedWire1" Caption="Твій найкращий друг під рукою"/> </Box>
+  
+  - [bold]ТМД-51 та вибухівка – найкращі друзі для швидкого руйнування[/bold]: Якщо під час будівництва укріплень потрібно оперативно знести стіну чи відкрити новий прохід, використовуйте ТМД-51 з пробивними набоями або вибухівку. ТМД-51 здатний знищити стіну за кілька пострілів; вибухівка – за кілька секунд. Якщо ви зацікавлені в цьому, то завітайте до Постачання.
+  <Box> <GuideEntityEmbed Entity="RMCWeaponShotgunXM51"/> <GuideEntityEmbed Entity="RMCShellShotgunBreaching"/> </Box>
+  - Приклад для ТМД-51 дозволяє вести стрільбу чергами по два постріли, що значно пришвидшує руйнування стін та легких укріплень. Недоліком є те, що зброю з прикладом не можна розмістити у ремінь. Використовується як конфігурація для максимального темпу демонтажу перешкод і відкриття нових ліній вогню.
+  <Box> <GuideEntityEmbed Entity="RMCAttachmentXM51Stock"/> <GuideEntityEmbed Entity="RMCBeltXM51"/> </Box>
+
+  <Box> <GuideEntityEmbed Entity="RMCExplosivePlastic"/> </Box>
+  
+  - Час встановлення – 5 секунд. Час детонації – 10 секунд. Мінімальна безпечна дистанція – 4 клітинки.
+  <Box> <GuideEntityEmbed Entity="RMCExplosiveBreachingCharge"/> </Box>
+  
+  - Час встановлення – 1 секунда. Час детонації – 3 секунди. Мінімальної безпечна дистанція – відсутня. Вибух спрямований від вас – можна ставити впритул, якщо стоїте позаду заряду.
 
   ##Пошук матеріалів
 

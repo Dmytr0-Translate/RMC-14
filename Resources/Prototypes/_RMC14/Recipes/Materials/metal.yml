@@ -192,7 +192,7 @@
 
 - type: rmcConstruction
   id: RMCComfyChairDeltaBuild
-  name: зручний стілець дельта
+  name: зручний стілець дельти
   prototype: CMChairComfyDelta
   materialCost: 2
   restrictedTags: [RMCSeat]
