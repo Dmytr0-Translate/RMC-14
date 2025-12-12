@@ -35,7 +35,6 @@
     - name: Предмети Одягу
       entries:
       - id: RMCBackpackRTO
-        recommended: true
         points: 5
       - id: RMCScabbardMacheteFilled
         name: чохол для мачете (Повний)
@@ -191,8 +190,10 @@
       entries:
       - id: RMCTankFlamer
         points: 3
-    #- id: CMM240IncineratorTankB-Gel
-    #  points: 3
+        name: incinerator tank (UT-Napthal)
+      - id: RMCTankFlamerBGel
+        points: 3
+        name: incinerator tank (B-Gel)
     - name: Додаткова Зброя
       entries:
       - id: RMCCaseFlamer
@@ -235,6 +236,8 @@
       takeAll: CMStandard
       entries:
       - id: CMVendorBundleSquadLeaderApparel
+      - id: RMCBackpackRTO
+        replaceSlot: back
       - id: CMMRE
       #- id: CMMap # TODO: Make a map
     - name: Броня
@@ -319,14 +322,13 @@
   parent: CMVendorBundleRiflemanApparel
   id: RMCVendorBundleCrewLeader
   name: необхідний набір лідера загону
-  description: Містить радіосумку, лазерний цілевказівник, упаковку сигнальних фаєрів М89-С, вибуховий заряд та вогнегасник.
+  description: Містить лазерний цілевказівник, упаковку сигнальних фаєрів М89-С, пластикову бомбу та вогнегасник.
   components:
   - type: Sprite
-    sprite: _RMC14/Objects/Clothing/Back/Backpacks/Marines/rto/jungle-desert-classic.rsi
+    sprite: _RMC14/Objects/Weapons/Explosives/plastic_explosives.rsi
     state: icon
   - type: CMVendorBundle
     bundle:
-    - RMCBackpackRTO
     - RMCExplosivePlastic
     - RMCPackFlareCAS
     - RMCLaserDesignator
@@ -408,8 +410,9 @@
     contents:
     - id: RMCBackpackFlamer
     - id: RMCWeaponFlamer
-    - id: RMCTankFlamer # TODO RMC14 +1 b gel, -1 regular
-      amount: 3 # TODO RMC14 projectile nozzle
+    - id: RMCTankFlamer
+      amount: 2 # TODO RMC14 projectile nozzle
+    - id: RMCTankFlamerBGel
     - id: CMFireExtinguisherPortable
 
 - type: entity

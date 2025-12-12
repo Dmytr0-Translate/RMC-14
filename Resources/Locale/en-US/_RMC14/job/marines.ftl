@@ -58,6 +58,9 @@ rmc-job-prefix-weapons-specialist-anti-materiel-sniper = АМГ
 rmc-job-name-weapons-specialist-scout = Спеціаліст-Розвідник
 rmc-job-prefix-weapons-specialist-scout = РЗВ
 
+rmc-job-name-weapons-specialist-pyro = Pyrotechnical Specialist
+rmc-job-prefix-weapons-specialist-pyro = PYRO
+
 rmc-job-name-forecon-spotter = Навідник Розвідки
 
 rmc-job-name-recruit = Recruit

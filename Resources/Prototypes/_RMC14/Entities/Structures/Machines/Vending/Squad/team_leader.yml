@@ -180,6 +180,8 @@
       takeAll: CMStandard
       entries:
       - id: CMVendorBundleFireteamLeaderApparel
+      - id: RMCBackpackRTO
+        replaceSlot: back
       - id: CMMRE
       #- id: CMMap # TODO: Make a map
       - id: RMCVendorBundleCrewFireteamLeader
@@ -193,7 +195,7 @@
       entries:
       - id: CMArmorM4
         recommended: true
-      - id: RMCArmorVestFireteamLeader
+      - id: RMCArmorVestSquad
     - name: Ремені
       choices: { CMBelt: 1 }
       entries:
@@ -260,7 +262,7 @@
   parent: CMVendorBundleRiflemanApparel
   id: RMCVendorBundleCrewFireteamLeader
   name: необхідний набір лідера вогневої групи
-  description: Містить лазерний цілевказівник, дві упаковки сигнальних фаєрів М89-С та радіотелефонний рюкзак.
+  description: Містить лазерний цілевказівник та дві упаковки сигнальних фаєрів М89-С.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Devices/binoculars.rsi
@@ -269,7 +271,6 @@
     - state: laser_cas
   - type: CMVendorBundle
     bundle:
-    - RMCBackpackRTO
     - RMCPackFlareCAS
     - RMCPackFlareCAS
     - RMCLaserDesignator
