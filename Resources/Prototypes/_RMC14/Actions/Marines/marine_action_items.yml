@@ -209,6 +209,16 @@
   - type: InstantAction
     event: !type:AimedShotActionEvent
 
+- type: entity
+  parent: ActionMarineBase
+  id: RMCActionBroiler
+  name: Змінити бак
+  description: Перемкнутися на інший бак з паливом.
+  components:
+  - type: Action
+  - type: InstantAction
+    event: !type:RMCBroilerActionEvent
+
 # Посібники
 
 - type: entity
